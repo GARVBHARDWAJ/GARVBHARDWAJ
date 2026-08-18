@@ -1,37 +1,265 @@
-<h1 align="center">Hi 👋, I'm Garv Bhardwaj</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garvbhardwaj" alt="garvbhardwaj" /></a> </p>
+# 👋 Hey, I'm Garv Bhardwaj
 
-- 🔭 I’m currently working on [Multi Agent Actor Critic Traffic Control System](https://github.com/GARVBHARDWAJ/Multi-Agent-Actor-Critic-Traffic-Control-System)
+### 🚀 AI/ML Enthusiast • Full-Stack Developer • Problem Solver
 
-- 🌱 I’m currently learning **full-stack web development, AI/ML, and cloud technologies, while improving my skills in ReactJS, NodeJS, Python, and databases**
-
-- 👯 I’m looking to collaborate on [E-judiciary](https://github.com/GARVBHARDWAJ/E-Judiciary)
-
-- 🤝 Already done project [Garage ai](https://github.com/GARVBHARDWAJ/garage-ai)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-garv-bhardwaj.vercel.app/](https://portfolio-garv-bhardwaj.vercel.app/)
-
-- 💬 Ask me about **AI/ML, Full-Stack Development, ReactJS, Python, Java, and my projects**
-
-- 📫 How to reach me **garv2004bhardwaj@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QQ58kw1_2wcCoC-SeMGJVzZyZ2Z3pey9/view?usp=drivesdk](https://drive.google.com/file/d/1QQ58kw1_2wcCoC-SeMGJVzZyZ2Z3pey9/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/garvbhardwaj04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garvbhardwaj04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/garv bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv bhardwaj" height="30" width="40" /></a>
-<a href="https://instagram.com/garv.bh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garv.bh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/garvbhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garvbhardwaj" height="30" width="40" /></a>
+<p>
+  <a href="https://garvbhardwaj.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/GARVBHARDWAJ">
+    <img src="https://img.shields.io/badge/GitHub-GARVBHARDWAJ-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/garv-bhardwaj">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:garv2004bhardwaj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=garvbhardwaj&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvbhardwaj&show_icons=true&locale=en&layout=compact" alt="garvbhardwaj" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvbhardwaj&show_icons=true&locale=en" alt="garvbhardwaj" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvbhardwaj&" alt="garvbhardwaj" /></p>
+## 🧑‍💻 About Me
+
+I'm **Garv Bhardwaj**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning**, passionate about building practical software, intelligent systems, and modern web applications.
+
+* 🎓 CSE student specializing in **AI/ML**
+* 🌱 Currently learning **Full-Stack Development, AI/ML & Cloud**
+* 🤖 Interested in **Machine Learning, Generative AI & Intelligent Systems**
+* 🌐 Building with **React, Next.js, Node.js & Python**
+* ☁️ Exploring **AWS, Docker & Cloud Technologies**
+* 🔬 Working on **Multi-Agent Reinforcement Learning**
+* 💡 Love turning ideas into practical projects
+* 🤝 Open to collaborations, internships & interesting projects
+
+---
+
+## 🔭 Currently Building
+
+### 🚦 Multi-Agent Actor-Critic Traffic Control System
+
+> An intelligent traffic signal optimization system using **Multi-Agent Reinforcement Learning**, **MADDPG**, **Centralized Training with Decentralized Execution (CTDE)** and **SUMO**.
+
+🔗 **Repository:**
+https://github.com/GARVBHARDWAJ/Multi-Agent-Actor-Critic-Traffic-Control-System
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/GARVBHARDWAJ">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=garvbhardwaj&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" />
+</a>
+
+<a href="https://github.com/GARVBHARDWAJ">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvbhardwaj&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=garvbhardwaij&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=garvbhardwaij&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/GARVBHARDWAJ">
+<img src="https://github-profile-trophy.vercel.app/?username=garvbhardwaij&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</a>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/GARVBHARDWAJ/Multi-Agent-Actor-Critic-Traffic-Control-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GARVBHARDWAJ&repo=Multi-Agent-Actor-Critic-Traffic-Control-System&hide_border=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/GARVBHARDWAJ/garage-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GARVBHARDWAJ&repo=garage-ai&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/GARVBHARDWAJ/E-Judiciary">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GARVBHARDWAJ&repo=E-Judiciary&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+### 🚦 Multi-Agent Traffic Control
+
+AI-based traffic signal optimization using **MARL, MADDPG, CTDE and SUMO**.
+
+### 🔧 Garage AI
+
+An **AI-powered automobile spare-parts recommendation and prediction system**.
+
+### ⚖️ E-Judiciary
+
+A collaborative project focused on improving and digitizing judiciary-related workflows.
+
+---
+
+# 📌 Other Projects
+
+| Project                          | Description                                    | Technologies            |
+| -------------------------------- | ---------------------------------------------- | ----------------------- |
+| 🌦️ IoT Weather Reporting        | Real-time weather monitoring system            | Arduino, ThingSpeak     |
+| 🤖 Real-Time Chatbot             | NLP-based interactive chatbot                  | Python, NLP             |
+| 🌍 Language Learning Platform    | Interactive foreign-language learning platform | React, Node.js, MongoDB |
+| ✈️ Flight Booking System         | Database-driven flight booking application     | Python, MySQL           |
+| 🚗 Autonomous Vehicle Simulation | Autonomous driving simulation                  | CARLA, OpenCV           |
+
+---
+
+# 💡 What I'm Interested In
+
+```text
+Artificial Intelligence
+Machine Learning
+Generative AI
+Multi-Agent Reinforcement Learning
+Full-Stack Development
+Cloud Computing
+Computer Vision
+Web3 & Blockchain
+Software Engineering
+```
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+`AI/ML` • `Deep Learning` • `React` • `Next.js` • `Node.js` • `Python` • `AWS` • `Docker` • `System Design`
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/garv-bhardwaj">
+<img src="https://img.shields.io/badge/LinkedIn-Garv%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/garvbhardwaj04">
+<img src="https://img.shields.io/badge/Twitter-@garvbhardwaj04-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/garvbhardwaj">
+<img src="https://img.shields.io/badge/LeetCode-GarvBhardwaj-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://instagram.com/garv.bh">
+<img src="https://img.shields.io/badge/Instagram-@garv.bh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+
+📧 <a href="mailto:garv2004bhardwaj@gmail.com">[garv2004bhardwaj@gmail.com](mailto:garv2004bhardwaj@gmail.com)</a>
+
+<br>
+
+🌐 <a href="https://portfolio-garv-bhardwaj.vercel.app/">Portfolio</a>
+
+<br>
+
+📄 <a href="https://drive.google.com/file/d/1QQ58kw1_2wcCoC-SeMGJVzZyZ2Z3pey9/view">Resume</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
