@@ -1,110 +1,35 @@
-<div align="center">
-
-# 👋 Hi, I'm Garv Bhardwaj
-
-### 🚀 AI/ML Enthusiast • Full-Stack Developer • Software Engineer
-
-<p>
-  <a href="https://portfolio-garv-bhardwaj.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/GARVBHARDWAJ">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/garv-bhardwaj">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:garv2004bhardwaj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=GARVBHARDWAJ&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Garv Bhardwaj**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
-
-I enjoy building practical software, intelligent systems, and modern web applications while continuously exploring new technologies.
-
-* 🎓 Computer Science student specializing in **AI/ML**
-* 💻 Passionate about **Full-Stack Development & Artificial Intelligence**
-* 🤖 Interested in **Machine Learning, Deep Learning & Generative AI**
-* 🌐 Building applications with **React, Next.js, Node.js & Python**
-* ☁️ Exploring **AWS, Docker & Cloud Technologies**
-* 🔬 Working on **Multi-Agent Reinforcement Learning**
-* 🚀 Interested in building products that solve real-world problems
-* 🤝 Open to collaborations, internships and interesting projects
-
----
-
-## 🔭 Currently Working On
-
-### 🚦 Multi-Agent Actor-Critic Traffic Control System
-
-An intelligent traffic signal optimization system using:
-
-`Multi-Agent Reinforcement Learning` • `MADDPG` • `CTDE` • `SUMO`
-
-🔗 **Repository:**
-https://github.com/GARVBHARDWAJ/Multi-Agent-Actor-Critic-Traffic-Control-System
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel" />
-</p>
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/GARVBHARDWAJ">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GARVBHARDWAJ&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://img.shields.io/github/followers/GARVBHARDWAJ?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/GARVBHARDWAJ?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/GARVBHARDWAJ?tab=stars">
+<img src="https://img.shields.io/badge/⭐-Starred%20Projects-181717?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/GARVBHARDWAJ">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GARVBHARDWAJ&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+<img src="https://komarev.com/ghpvc/?username=GARVBHARDWAJ&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/GARVBHARDWAJ">
+<img src="https://img.shields.io/github/last-commit/GARVBHARDWAJ/Garv_Bhardwaj?style=flat-square&label=Latest%20Activity" />
+</a>
+
+<a href="https://github.com/GARVBHARDWAJ?tab=overview">
+<img src="https://img.shields.io/github/commit-activity/y/GARVBHARDWAJ?style=flat-square&label=Yearly%20Activity" />
 </a>
 
 </div>
@@ -115,123 +40,100 @@ https://github.com/GARVBHARDWAJ/Multi-Agent-Actor-Critic-Traffic-Control-System
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚦 Multi-Agent Traffic Control
+
+AI-powered traffic signal optimization using **Multi-Agent Reinforcement Learning**.
+
+**Tech Stack**
+
+`Python` `MARL` `MADDPG` `SUMO` `CTDE`
+
 <a href="https://github.com/GARVBHARDWAJ/Multi-Agent-Actor-Critic-Traffic-Control-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GARVBHARDWAJ&repo=Multi-Agent-Actor-Critic-Traffic-Control-System&hide_border=true&theme=transparent" />
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://github.com/GARVBHARDWAJ/garage-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GARVBHARDWAJ&repo=garage-ai&hide_border=true&theme=transparent" />
-</a>
+</td>
 
-</div>
-
----
-
-## 🚀 My Projects
-
-### 🚦 Multi-Agent Traffic Control System
-
-AI-powered traffic signal optimization using **Multi-Agent Reinforcement Learning, MADDPG, CTDE and SUMO**.
-
-🔗 [View Project](https://github.com/GARVBHARDWAJ/Multi-Agent-Actor-Critic-Traffic-Control-System)
-
----
+<td width="50%" valign="top">
 
 ### 🔧 Garage AI
 
-An **AI-powered automobile spare-parts recommendation and prediction system**.
+AI-powered **automobile spare-parts recommendation and prediction system**.
 
-🔗 [View Project](https://github.com/GARVBHARDWAJ/garage-ai)
+**Tech Stack**
 
----
+`Python` `AI/ML` `Machine Learning`
+
+<a href="https://github.com/GARVBHARDWAJ/garage-ai">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### ⚖️ E-Judiciary
 
-A project focused on building a digital platform for improving judiciary-related workflows.
+A digital platform designed to improve and simplify **judiciary-related workflows**.
 
-🔗 [View Project](https://github.com/GARVBHARDWAJ/E-Judiciary)
+**Focus**
 
----
+`Web Development` `Full Stack` `Digital Solutions`
 
-### 🌦️ IoT Weather Reporting System
+<a href="https://github.com/GARVBHARDWAJ/E-Judiciary">
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
 
-A real-time weather monitoring system using sensors and cloud-based data visualization.
+</td>
 
-**Tech:** `Arduino` • `ThingSpeak`
-
----
+<td width="50%" valign="top">
 
 ### 🤖 Real-Time Chatbot
 
-An NLP-based interactive chatbot designed to understand and respond to user queries.
+An interactive chatbot designed to process and respond to user queries using **NLP**.
 
-**Tech:** `Python` • `NLP`
+**Tech Stack**
 
----
+`Python` `NLP` `AI`
 
-### 🌍 Foreign Language Learning Platform
+<a href="https://github.com/GARVBHARDWAJ">
+<img src="https://img.shields.io/badge/🔗%20View%20GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-An interactive platform for learning foreign languages.
+</td>
 
-**Tech:** `React` • `Node.js` • `MongoDB`
-
----
-
-### ✈️ Flight Booking System
-
-A database-driven flight booking application.
-
-**Tech:** `Python` • `MySQL`
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-
-`Artificial Intelligence`
-`Machine Learning`
-`Deep Learning`
-`Generative AI`
-`Full-Stack Development`
-`Next.js`
-`Cloud Computing`
-`AWS`
-`Docker`
-`System Design`
-
-</p>
-
----
-
-## 💡 Areas of Interest
-
-<div align="center">
-
-|    🤖 AI & ML    | 🌐 Development | ☁️ Cloud |    🔗 Emerging Tech    |
-| :--------------: | :------------: | :------: | :--------------------: |
-| Machine Learning |      React     |    AWS   |          Web3          |
-|   Deep Learning  |     Next.js    |  Docker  |       Blockchain       |
-|   Generative AI  |     Node.js    |   Cloud  |        AI Agents       |
-|  Computer Vision |     Python     |  DevOps  | Reinforcement Learning |
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🤝 Looking to Collaborate On
+## 📌 More Projects
 
-* 🤖 AI/ML projects
-* 🌐 Full-stack applications
-* 🚀 Innovative startup ideas
-* 🔬 Research projects
-* 🧠 Generative AI applications
-* ☁️ Cloud-based solutions
-* 💡 Open-source projects
+<div align="center">
+
+| 🚀 Project                                | 🛠️ Technologies            |
+| :---------------------------------------- | :-------------------------- |
+| 🌦️ **IoT Weather Reporting System**      | `Arduino` `ThingSpeak`      |
+| 🌍 **Foreign Language Learning Platform** | `React` `Node.js` `MongoDB` |
+| ✈️ **Flight Booking System**              | `Python` `MySQL`            |
+| 🚗 **Autonomous Vehicle Simulation**      | `CARLA` `OpenCV`            |
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -240,22 +142,20 @@ A database-driven flight booking application.
 </a>
 
 <a href="https://twitter.com/garvbhardwaj04">
-<img src="https://img.shields.io/badge/X-@garvbhardwaij-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-Garv%20Bhardwaj-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/garv.bh">
-<img src="https://img.shields.io/badge/Instagram-@garv.bh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-Garv%20Bhardwaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/garvbhardwaj">
-<img src="https://img.shields.io/badge/LeetCode-GarvBhardwaj-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-Garv%20Bhardwaj-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
 
----
-
-## 📫 Contact
+<br>
 
 <div align="center">
 
@@ -264,19 +164,5 @@ A database-driven flight booking application.
 🌐 **[Portfolio](https://portfolio-garv-bhardwaj.vercel.app/)**
 
 📄 **[Resume](https://drive.google.com/file/d/1QQ58kw1_2wcCoC-SeMGJVzZyZ2Z3pey9/view)**
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-⭐ **If you find my projects interesting, consider giving them a star.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
